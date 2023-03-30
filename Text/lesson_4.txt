@@ -1,0 +1,2 @@
+The Cryptographic failure vulnerability in software applications is similar to a locked safe that can be easily opened with a simple key. The safe may appear secure, but the weak lock makes it vulnerable to attacks.
+Similarly, in software applications, cryptographic failure can occur if weak encryption algorithms or keys are used. Attackers can exploit these weaknesses to gain unauthorized access to sensitive data or execute malicious code.

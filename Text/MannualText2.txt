@@ -1,0 +1,5 @@
+In this room, the player must find the weak and commonly used password to gain access. 
+Each sign board will contains one password that from these all password there are 7 strong passwords
+and 3 weak password.
+Hint: real password is one of the weak passwords.
+

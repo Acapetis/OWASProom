@@ -1,0 +1,3 @@
+In this room, the player must find the correct plaintext to pass through
+The table of alphabets that you see is Vigenere table that is the encrypted method of the real password.
+you can see the key and decrypted text but I won't tell you the plain one, figure it!! 

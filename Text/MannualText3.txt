@@ -1,0 +1,3 @@
+In this room, the player must find the part of the door that contains a virus in order to pass through
+Each capsule is represent part of virus that if you collect it by correct order you will get a completed virus
+that will make you pass this room  

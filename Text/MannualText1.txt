@@ -1,0 +1,4 @@
+In this room, the player is tasked with finding the non-updated door to pass through. 
+Each door represent software version from the oldest-latest,
+the older version the shorter password require.
+So I suggest you to find the oldest version door to make you pass this room easily.

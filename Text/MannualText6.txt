@@ -1,0 +1,4 @@
+In this room, the player must find the misconfig door to pass through
+Each door is locked up and the usually limit the input count to 3,
+But one door is misconfig and you can try password on it infinitely.
+hint: password is have 4 digits.

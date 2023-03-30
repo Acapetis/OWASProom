@@ -1,0 +1,4 @@
+In this room, the player must pretend to be admin to pass through
+You will see the blue bot that look like you walk around the room,
+It's the admin you must follow him to the same checkpoint and same order 
+to make system think you are the admin and the door will unlock.
